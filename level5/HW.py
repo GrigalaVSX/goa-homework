@@ -143,7 +143,7 @@ print(answ)
 
 age=int(input('age:'))
 
-balance=float(input('balance'))
+balance=float(input('balance:'))
 
 VIP_status=True
 
