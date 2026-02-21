@@ -10,12 +10,12 @@ print('SUM',total)
 
 #davalebis meore etapi
 
-# password=input('enter password:')
+password=input('enter password:')
 
-# act_password='1234'
+act_password='1234'
 
-# while act_password!=password:
-#     print('enter password:')
+while act_password!=password:
+     print('enter password:')
 
 #davalebis mesame etapi
 
@@ -53,8 +53,8 @@ print(type(z))
 x=input('enter num1:')
 y=input('enter num2:')
 
-print(bool(x>5))
-print(bool(y<10))
+print(x>5)
+print(y<10)
 
 #davalebis meate egtapi
 
